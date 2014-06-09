@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CircleGame</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_class2">Class2</string>
+    <string name="Play">Play</string>
+    <string name="Info"></string>
+    <string name="title_activity_class3">Class3</string>
+    <string name="Class3">Guide</string>
+    <string name="Start">Start</string>
+    <string name="popup">This is a popup window</string>
+    <string name="Replay">Replay</string>
+    <string name="An">Android</string>
+    <string name="S">Score:</string>
+    <string name="H">Highscore: </string>
+
+</resources>
